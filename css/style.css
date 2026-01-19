@@ -78,7 +78,7 @@ img{
 
 /*HOME*/
 .cover-home{
-    background-image: url("../images_1/cover-home-s.webp");
+    background-image: url("../images/cover-home-s.webp");
 }
 
 .about{
@@ -93,11 +93,9 @@ img{
 
 /*ニュース*/
 .cover-news{
-    background-image: url("../images_1/cover-news-l.webp");
+    background-image: url("../images/cover-news-l.webp");
 }
-.cover-news{
-    background-image: url(../images_1/cover-news-l.webp);
-}
+
 .news-contents{
     display: flex;
     justify-content: space-between;
@@ -299,7 +297,7 @@ img{
 
 /* メニューのカバー画像 */
 .cover-menu{
-    background-image: url("../images_1/cover-menu-s.webp");
+    background-image: url("../images/cover-menu-s.webp");
 }
 
 /* メニューグリッド */
